@@ -4,7 +4,8 @@
   --instagram-gradient: linear-gradient(135deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
   --color-grey: hsl(0, 6%, 13%);
   --color-black: hsl(0, 0%, 0%);
-  --color-dark-grey: hsl(0, 0%, 12%);
+  --color-dark-grey: hsl(0, 0%, 10%);
+
   --color-white: hsl(34, 78%, 91%);
   --color-green: hsl(90, 100%, 50%);
   --font-size: 14px;
